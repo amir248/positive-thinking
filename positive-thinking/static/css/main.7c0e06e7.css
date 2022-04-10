@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif;background:linear-gradient(rgba(255,255,0,.5),rgba(0,0,255,.5));font-size:20px}article,main{display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;max-width:100%}article{width:900px;-ms-flex-direction:column;flex-direction:column}img{width:300px;max-width:100%;margin-right:1%}@media(max-width:500px){#OneImg,img{max-width:100%;width:900px;margin:0}}
+/*# sourceMappingURL=main.7c0e06e7.css.map*/
